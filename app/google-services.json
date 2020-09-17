@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "666873099880",
+    "firebase_url": "https://space-chat-aa2d1.firebaseio.com",
+    "project_id": "space-chat-aa2d1",
+    "storage_bucket": "space-chat-aa2d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666873099880:android:642690d6355328ac142ddd",
+        "android_client_info": {
+          "package_name": "com.aliaboubakr.spacechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666873099880-m2sb30k9kk8tn5mpbgv2shh6p7b1vlis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aliaboubakr.spacechat",
+            "certificate_hash": "a3836fccff900584e71935f47c491520c0ec7d34"
+          }
+        },
+        {
+          "client_id": "666873099880-nf82tpffinenkksb1003qst34at1nqlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsbFMtLwK6wMqLMFIXqJK_PbYS8goxOao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666873099880-nf82tpffinenkksb1003qst34at1nqlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
